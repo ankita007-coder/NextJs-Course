@@ -1,0 +1,12 @@
+.post{
+    background-color: lightblue;
+    text-align: center;
+    opacity: 0.6;
+    list-style-type: none;
+    margin: 8px;
+    border-radius: 1rem;
+}
+
+.author{
+    text-align: center;
+}
